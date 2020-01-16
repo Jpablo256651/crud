@@ -1,0 +1,23 @@
+IdProyecto
+* Proyecto --------------------
+* Area ----------
+* Responsable --------------
+* Colaborador ---------------
+NombreUsuarioMovimiento
+* FechaInicio
+* FechaVencimiento1
+* FechaVencimiento2
+* Tipo
+* OficioGINP
+
+*********************************
+Proyecto_nuevo
+Responsable_proyn
+Colaborador_proyn
+Tipo_proyn
+Prioridad_proyn
+Estado_proyn
+FechaInicio_proyn
+FechaVencimiento1_proyn
+FechaVencimiento2_proyn
+AdjuntoGinpOficio_proyn
